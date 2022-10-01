@@ -18,18 +18,17 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
 
 I am a CPSC student at the University of Calgary, with a focus on Software Engineering and some French.
-I love programming, playing video games and swimming. 🏊‍♂️
+I love programming, playing chess and swimming. 🏊‍♂️
 
-Being a software engineer is a satisfying career path that I absolutely enjoy.
-The creativity in problem solving is comparable to solving little puzzles.
-It is a gratifying experience and is never a dull moment.
-With technology constantly evolving, it is the future.
-
-**A little bit about myself:**
+Being a software engineer is a gratifying career path that I absolutely enjoy and I look forward to see where technology takes us.
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761106f1d5a4c2212e3cd1b6bceaf1fc30885b8cfc16&rid=giphy.gif&ct=g" width="350" height=auto />
 
--   📄 [Resume](www.google.ca)
+**A little bit about myself:**
+
+-   🎮 Currently learning [Unreal Engine](https://www.unrealengine.com/en-US/)
+-   🎯 Making C++ my default programming language
+-   📄 [Resume](https://www.netlify.ca)
 
 <!--
 
