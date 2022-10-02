@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
 
 I am a CPSC student at the University of Calgary, with a focus on Software Engineering and some French.
-I love programming, playing chess and reading. 📚
+I love programming, playing [chess](https://lichess.org/) and reading. 📚
 
 Being a software engineer is a gratifying career path that I absolutely enjoy and I look forward to see where technology takes us.
 
@@ -27,9 +27,9 @@ Being a software engineer is a gratifying career path that I absolutely enjoy an
 **A little bit about myself:**
 
 -   🎮 Currently learning [Unreal Engine](https://www.unrealengine.com/en-US/)
--   🎯 Making `C++` my default programming language
-    -   Practicing Leetcode in `C++`.
--   📄 [Resume]()
+-   🎯 `C++` is my default programming language
+-   👨‍💻 Solving Leetcode questions
+-   🐧 I love penguins!
 
 <!--
 
