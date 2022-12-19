@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
 
-I am a CPSC student at the University of Calgary, with a focus on Software Engineering and some French.
+I am a computer science student at the University of Calgary, with a focus on Software Engineering and some French.
 I love programming, playing [chess](https://lichess.org/) and reading! 📚
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761106f1d5a4c2212e3cd1b6bceaf1fc30885b8cfc16&rid=giphy.gif&ct=g" width=50% height=auto />
