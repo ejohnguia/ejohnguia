@@ -28,6 +28,10 @@ I love programming, playing [chess](https://lichess.org/) and reading! 📚
 -   👨‍💻 Solving Leetcode questions
 -   🐧 Penguins are my favorite animal!
 
+<p align=center>
+    <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="14%">
+<p>
+
 <!--
 
 Resources:
