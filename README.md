@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
 
-As a Specialist, Software Developer working at Bell and a CS alumnus from the University of Calgary, I have a passion for both technology and continuous learning. When I'm not working, you can find me programming, playing [chess](https://lichess.org/), or diving into a good book! 📚
+As a Specialist, Software Developer working at [Bell](https://www.bell.ca/) and a CS alumnus from the University of Calgary, I have a passion for both technology and continuous learning. When I'm not working, you can find me programming, playing [chess](https://lichess.org/), or diving into a good book! 📚
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761106f1d5a4c2212e3cd1b6bceaf1fc30885b8cfc16&rid=giphy.gif&ct=g" width=50% height=auto />
 
