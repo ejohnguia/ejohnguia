@@ -1,5 +1,3 @@
-<!-- @format -->
-
 <!-- **ejohnguia/ejohnguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,16 +15,15 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
 
-I am a computer science student at the University of Calgary, with a focus on Software Engineering and some French.
-I love programming, playing [chess](https://lichess.org/) and reading! 📚
+As a Specialist, Software Developer working at Bell and a CS alumnus from the University of Calgary, I have a passion for both technology and continuous learning. When I'm not working, you can find me programming, playing [chess](https://lichess.org/), or diving into a good book! 📚
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761106f1d5a4c2212e3cd1b6bceaf1fc30885b8cfc16&rid=giphy.gif&ct=g" width=50% height=auto />
 
 **A little bit about myself:**
 
--   🎮 Currently learning [Unreal Engine](https://www.unrealengine.com/en-US/)
--   👨‍💻 Solving Leetcode questions
--   🐧 Penguins are my favorite animal!
+-   🚲 Progressing through this DevOps [roadmap](https://roadmap.sh/devops)
+-   🌱 Currently learning [Go](https://go.dev/)
+-   🐧 Penguins hold a special place in my heart as my favorite animal!
 
 <p align=center>
     <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="14%">
