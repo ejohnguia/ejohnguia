@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
 
-As a Specialist, Software Developer working at [Bell](https://www.bell.ca/) and a CS alumnus from the University of Calgary, I have a passion for both technology and continuous learning. When I'm not working, you can find me programming, playing [chess](https://lichess.org/), or diving into a good book! 📚
+I'm a Specialist, Software Developer at [Bell](https://www.bell.ca/) in the in Cloud DevOps area, and I take pride in being an alumni of the University of Calgary, where I earned my degree in Computer Science. With a deep passion for technology and a strong commitment to continuous learning, I consistently seek opportunities to enhance my skills. When I'm not immersed in coding, you'll likely find me engaged in a game of [chess](https://lichess.org/) or engrossed in the pages of a captivating book! 📚
 
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761106f1d5a4c2212e3cd1b6bceaf1fc30885b8cfc16&rid=giphy.gif&ct=g" width=50% height=auto />
 
 **A little bit about myself:**
 
 -   🚲 Progressing through this DevOps [roadmap](https://roadmap.sh/devops)
--   🌱 Currently learning [Go](https://go.dev/)
+-   🌱 Currently learning [Terraform](https://www.terraform.io/) and [Ansible](https://www.ansible.com/)
 -   🐧 Penguins hold a special place in my heart as my favorite animal!
 
 <p align=center>
