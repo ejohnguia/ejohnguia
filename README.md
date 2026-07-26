@@ -5,9 +5,9 @@
 
 Cloud Infrastructure Advisor at [Cenovus Energy](https://www.cenovus.com/) · DevOps & Platform Engineering · Edmonton, AB
 
-3 years delivering cloud infrastructure automation across Azure and AWS in energy and telecom. I focus on CI/CD, GitOps, IaC, and lately, AI agent architectures using MCP server integrations. Alumni of the University of Calgary, Computer Science.
+I deliver cloud infrastructure automation across Azure and AWS in energy and telecom — CI/CD, GitOps, IaC, and AI agent architectures using MCP server integrations. I'm an alumni of the University of Calgary, where I studied Computer Science.
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761106f1d5a4c2212e3cd1b6bceaf1fc30885b8cfc16&rid=giphy.gif&ct=g" width=50% height=auto />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761106f1d5a4c2212e3cd1b6bceaf1fc30885b8cfc16&rid=giphy.gif&ct=g" width=35% height=auto />
 
 **Stack:**
 
