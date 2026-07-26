@@ -30,12 +30,16 @@ I deliver cloud infrastructure automation across Azure and AWS in energy and tel
 -   🏠 Outside of work, I'm probably self-hosting something ([Immich](https://immich.app/), a homelab on Linux Mint) — chasing that feeling of owning my data instead of renting it back
 -   ♟️ Otherwise: chess, Hollow Knight, swimming/paddle boarding, fantasy novels, and a soft spot for penguins 🐧
 
+<p align="center">
 <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30%">
+</p>
 
 </td>
-<td valign="top" width="50%" style="border: none;">
+<td valign="middle" width="50%" style="border: none;">
 
+<p align="center">
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761106f1d5a4c2212e3cd1b6bceaf1fc30885b8cfc16&rid=giphy.gif&ct=g" width="100%">
+</p>
 
 </td>
 </tr>
