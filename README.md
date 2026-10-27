@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
 
-GitHub Platform Consultant at **Lantern** · DevOps & Platform Engineering · Edmonton, AB 🇨🇦
+GitHub Platform Consultant at [**Lantern**](https://lanternstudios.com/) · DevOps & Platform Engineering · Edmonton, AB 🇨🇦
 
 I help enterprises adopt GitHub as a secure, scalable developer platform — from migrations and governance to CI/CD, automation, and developer enablement.
 
