@@ -2,9 +2,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
 
-Cloud Infrastructure Advisor at [Cenovus Energy](https://www.cenovus.com/) · DevOps & Platform Engineering · Edmonton, AB
+GitHub Platform Consultant at **Lantern** · DevOps & Platform Engineering · Edmonton, AB 🇨🇦
 
-I deliver cloud infrastructure automation across Azure and AWS in energy and telecom — CI/CD, GitOps, IaC, and AI agent architectures using MCP server integrations. I'm an alumni of the University of Calgary, where I studied Computer Science.
+I help enterprises adopt GitHub as a secure, scalable developer platform — from migrations and governance to CI/CD, automation, and developer enablement.
+
+My background is in cloud infrastructure and platform engineering across Azure and AWS, with a focus on GitHub Actions, Infrastructure as Code, GitOps, Kubernetes, and increasingly AI-assisted developer workflows, agentic engineering, and MCP integrations.
+
+I'm an alumnus of the University of Calgary, where I studied Computer Science.
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -12,6 +16,9 @@ I deliver cloud infrastructure automation across Azure and AWS in energy and tel
 
 **Stack:**
 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
@@ -19,13 +26,13 @@ I deliver cloud infrastructure automation across Azure and AWS in energy and tel
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **A little bit about myself:**
 
+-   🔧 Current focus: GitHub Enterprise, GitHub Actions, platform engineering, developer experience, and DevSecOps
 -   🎓 Certified: Terraform Associate · AWS Cloud Practitioner · Google Cloud Digital Leader · Azure Fundamentals · Azure AI Fundamentals · ITIL
--   🌱 Currently working toward: [AZ-104](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) & [CKA](https://www.cncf.io/training/certification/cka/)
+-   🌱 Currently working toward: **GitHub Administration**, with **GitHub Advanced Security** up next
 -   🏠 Outside of work, I'm probably self-hosting something ([Immich](https://immich.app/), a homelab on Linux Mint) — chasing that feeling of owning my data instead of renting it back
 -   ♟️ Otherwise: chess, Hollow Knight, swimming/paddle boarding, fantasy novels, and a soft spot for penguins 🐧
 
