@@ -1,4 +1,3 @@
----
 ### <samp>&gt; Hi there, I'm Ezra John Guia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ezrajohn-guia/)
@@ -48,4 +47,3 @@ Resources:
 https://shields.io/
 https://github.com/ikatyang/emoji-cheat-sheet
 -->
----
