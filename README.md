@@ -32,7 +32,7 @@ I'm an alumnus of the University of Calgary, where I studied Computer Science.
 
 -   🔧 Current focus: GitHub Enterprise, GitHub Actions, platform engineering, developer experience, and DevSecOps
 -   🎓 Certified: Terraform Associate · AWS Cloud Practitioner · Google Cloud Digital Leader · Azure Fundamentals · Azure AI Fundamentals · ITIL
--   🌱 Currently working toward: **GitHub Administration**, with **GitHub Advanced Security** up next
+-   🌱 Currently working toward: [**GitHub Administration**](https://learn.github.com/certification/ADMIN), with [**GitHub Advanced Security**](https://learn.github.com/certification/GHAS) up next
 -   🏠 Outside of work, I'm probably self-hosting something ([Immich](https://immich.app/), a homelab on Linux Mint) — chasing that feeling of owning my data instead of renting it back
 -   ♟️ Otherwise: chess, Hollow Knight, swimming/paddle boarding, fantasy novels, and a soft spot for penguins 🐧
 
