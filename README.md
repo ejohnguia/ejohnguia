@@ -30,10 +30,10 @@ I'm an alumnus of the University of Calgary, where I studied Computer Science.
 
 **A little bit about myself:**
 
--   🔧 Current focus: GitHub Enterprise, GitHub Actions, platform engineering, developer experience, and DevSecOps
--   🎓 Certified: Terraform Associate · AWS Cloud Practitioner · Google Cloud Digital Leader · Azure Fundamentals · Azure AI Fundamentals · ITIL
--   🏠 Outside of work, I'm probably self-hosting something ([Immich](https://immich.app/), a homelab on Linux Mint) — chasing that feeling of owning my data instead of renting it back
--   ♟️ Otherwise: chess, Hollow Knight, swimming/paddle boarding, fantasy novels, and a soft spot for penguins 🐧
+- 🔧 Current focus: GitHub Enterprise, GitHub Actions, platform engineering, developer experience, and DevSecOps
+- 🎓 Certified: Terraform Associate · AWS Cloud Practitioner · Google Cloud Digital Leader · Azure Fundamentals · Azure AI Fundamentals · ITIL
+- 🏠 Outside of work, I'm probably self-hosting something ([Immich](https://immich.app/), a homelab on Linux Mint) — chasing that feeling of owning my data instead of renting it back
+- ♟️ Otherwise: chess, Hollow Knight, swimming/paddle boarding, fantasy novels, and a soft spot for penguins 🐧
 
 <p align="center">
 <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="30%">
